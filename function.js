@@ -13,4 +13,6 @@ function startFan(){
 } 
 
 // call the function
+// Function Invocation/ call: ফাঙ্কশনটি কল করা হলে এর ভিতরে কোডটি কাজজকোর হয় 
+// একটা ফাঙ্কশন কোড একবার লিখলেই হয়।  তারপর যতবার দরকার সেটাকে ততবার ব্যাবহার করা যায় 
 startFan();   
